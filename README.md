@@ -1,5 +1,5 @@
 <a href="https://miguel.maecly.com">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30CFEA,50:8B5CF6,100:F2589F&height=190&section=header&text=Miguel%20Angel%20Esparza%20Calero&fontSize=38&fontAlignY=36&fontColor=ffffff&desc=Founder%20of%20MAECLY%20%C2%B7%20Developer%20%26%20creator%20%C2%B7%20Quito%2C%20Ecuador&descAlignY=58&descSize=15&animation=fadeIn" alt="Miguel Angel Esparza Calero, founder of MAECLY" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30CFEA,50:8B5CF6,100:F2589F&height=190&section=header&text=Miguel%20Angel%20Esparza%20Calero&fontSize=38&fontAlignY=36&fontColor=ffffff&desc=Founder%20of%20MAECLY%20%C2%B7%20Developer%20and%20creator%20%C2%B7%20Quito%2C%20Ecuador&descAlignY=58&descSize=15&animation=fadeIn" alt="Miguel Angel Esparza Calero, founder of MAECLY" />
 </a>
 
 <p align="center">
