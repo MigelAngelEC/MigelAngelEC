@@ -145,7 +145,25 @@ Menu-bar app that brings your Mac's internet back when a VPN drops. Works with 1
 
 ---
 
-## 3 · Also building
+## 3 · Acodear
+
+<a href="https://www.acodear.com"><b>Acodear</b></a> is a Spanish-language coding school I co-founded with three partners. I work on programming, DevOps and full stack.
+
+- **[Acodear Academy](https://www.acodear.com):** programming courses with exercises that run in the browser. A Flask service executes student code in isolated Docker containers and returns the test results, and an admin app handles multi-language course authoring
+- **Acodear AI:** a universal iOS, Android and web learning app with AI-assisted lessons, an interactive sandbox and a community space, backed by a Bun + Hono + Postgres API
+- **[Acodear Mentorhood](https://mentorhood.acodear.com):** mentoring and consulting that helps students speed up their careers
+
+<p>
+  <img src="https://img.shields.io/badge/Expo-54-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo 54" />
+  <img src="https://img.shields.io/badge/React%20Native-0.81-149ECA?style=flat-square&logo=react&logoColor=white" alt="React Native 0.81" />
+  <img src="https://img.shields.io/badge/Bun-Hono-000?style=flat-square&logo=bun" alt="Bun and Hono" />
+  <img src="https://img.shields.io/badge/Flask-Docker%20sandbox-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Flask with a Docker sandbox" />
+  <img src="https://img.shields.io/badge/AWS-Amplify%20Gen%202-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Amplify Gen 2" />
+</p>
+
+---
+
+## 4 · Also building
 
 - **Native Apple apps:** FocusLoop (focus sessions and habits, SwiftUI + SwiftData), Targetly (personal goals) and Korich (modular Swift architecture)
 - **[miguel.maecly.com](https://miguel.maecly.com):** my portfolio, with Developer, Creator and Unified modes, a 3D scene in React Three Fiber, and the "Dos mundos" MAEC brand
@@ -158,7 +176,7 @@ Menu-bar app that brings your Mac's internet back when a VPN drops. Works with 1
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,rust,tauri,react,nextjs,svelte,swift,py&perline=8" alt="TypeScript, Rust, Tauri, React, Next.js, Svelte, Swift, Python" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,bun,tailwind,threejs,supabase,postgres,firebase,docker&perline=8" alt="Node.js, Bun, Tailwind, Three.js, Supabase, PostgreSQL, Firebase, Docker" /><br>
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,githubactions,vitest&perline=4" alt="Vercel, Cloudflare, GitHub Actions, Vitest" />
+  <img src="https://skillicons.dev/icons?i=aws,flask,vercel,cloudflare,githubactions,vitest&perline=6" alt="AWS, Flask, Vercel, Cloudflare, GitHub Actions, Vitest" />
 </p>
 
 | Area | What I use |
@@ -166,7 +184,8 @@ Menu-bar app that brings your Mac's internet back when a VPN drops. Works with 1
 | **Desktop apps** | Tauri 2 + Rust with React or Svelte (Pluryprint, Coverly ROMs, Versorium, autostand) · SwiftUI + XPC (VPN Fix) · Python + pywebview + Pillow (Image Transform Lite) |
 | **Browser and plugins** | WXT, Manifest V3 extensions (Coverly Shelf, ID Bridge IA) · Elgato Stream Deck SDK (Gaming Toggles) |
 | **Web** | Next.js 16 + React 19 · Tailwind 4 · React Three Fiber + GLSL · static sites with a single local verify gate |
-| **Backend and data** | Supabase (Postgres, Auth, Realtime, Storage) · Firebase · Resend + React Email · WhatsApp Business API |
+| **Mobile** | Expo + React Native (Acodear AI) · SwiftUI + SwiftData (FocusLoop, Targetly) |
+| **Backend and data** | Supabase (Postgres, Auth, Realtime, Storage) · Bun + Hono + Drizzle · Flask · AWS Amplify Gen 2 (AppSync, Cognito) · Firebase · Resend + React Email · WhatsApp Business API |
 | **AI** | AI SDK, local model runtimes, bring-your-own-key designs, agent tooling for chrome-devtools-mcp |
 | **Quality and ops** | Playwright E2E · Vitest · cargo test and clippy · ADRs and docs-first · Vercel · Cloudflare DNS · releases on GitHub |
 
