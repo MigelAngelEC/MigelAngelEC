@@ -130,10 +130,11 @@ Menu-bar app that brings your Mac's internet back when a VPN drops. Works with 1
 - **Suppliers and payments:** invoices with SRI validation, automatic withholdings, payment tracking with receipts
 - **Communications:** WhatsApp Business inbox and templates, React Email with delivery tracking, real-time in-app notifications
 - **Operations:** roles and permissions, audit logging, Excel import and export, PDF/Word/Excel documents, AI-assisted workflows
-- **Infrastructure:** migrated in July 2026 from a hosted cloud stack to a fully local one (Supabase CLI, Mailpit, Cloudflare tunnel for webhooks), with an end-to-end suite of 94 tests verifying the restore against production
+- **Infrastructure:** runs on Vercel and Supabase (Postgres 17, Auth, Realtime, Storage), with a full local mirror for development (Supabase CLI, Mailpit, Cloudflare tunnel for webhooks) and a Playwright end-to-end suite
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-16-000?style=flat-square&logo=nextdotjs" alt="Next.js 16" />
+  <img src="https://img.shields.io/badge/Vercel-hosted-000?style=flat-square&logo=vercel" alt="Hosted on Vercel" />
   <img src="https://img.shields.io/badge/React-19-149ECA?style=flat-square&logo=react&logoColor=white" alt="React 19" />
   <img src="https://img.shields.io/badge/Supabase-Postgres%2017-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase, Postgres 17" />
   <img src="https://img.shields.io/badge/WhatsApp-Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Business API" />
