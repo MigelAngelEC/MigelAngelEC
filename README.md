@@ -66,8 +66,9 @@ Finds the ROMs on your handheld's SD card with no cover art and fills them in. D
 <tr>
 <td width="50%" valign="top">
 <img src="https://maecly.com/products/coverly-shelf.png" width="40" height="40" alt="Coverly Shelf icon"><br>
-<b><a href="https://coverly-shelf.maecly.com/en/">Coverly Shelf</a></b> <sub>· new · AGPL-3.0</sub><br>
+<b><a href="https://coverly-shelf.maecly.com/en/">Coverly Shelf</a></b> <sub>· on the Chrome Web Store · AGPL-3.0</sub><br>
 Browser extension that adds box art and screenshots to 3DS game pages. Purely cosmetic. Chrome, Edge and Brave.<br>
+<a href="https://chromewebstore.google.com/detail/coverly-shelf/ahafjflkfcijeoaggjhjpgekbchjpfie"><img src="https://img.shields.io/chrome-web-store/v/ahafjflkfcijeoaggjhjpgekbchjpfie?style=flat-square&color=0E5E6F" alt="Coverly Shelf on the Chrome Web Store"></a>
 <a href="https://github.com/MAECLY/coverly-shelf/releases"><img src="https://img.shields.io/github/downloads/MAECLY/coverly-shelf/total?style=flat-square&color=0E5E6F" alt="Coverly Shelf downloads"></a>
 <a href="https://github.com/MAECLY/coverly-shelf">source</a>
 </td>
