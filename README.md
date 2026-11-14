@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://maecly.com"><img src="https://img.shields.io/badge/MAECLY-13%20products-0B0A12?style=flat-square&labelColor=30CFEA" alt="MAECLY: 13 products" /></a>
-  <a href="https://github.com/MAECLY"><img src="https://img.shields.io/badge/open%20source-7%20apps-0B0A12?style=flat-square&labelColor=F2589F" alt="7 open-source apps" /></a>
+  <a href="https://maecly.com"><img src="https://img.shields.io/badge/MAECLY-14%20products-0B0A12?style=flat-square&labelColor=30CFEA" alt="MAECLY: 14 products" /></a>
+  <a href="https://github.com/MAECLY"><img src="https://img.shields.io/badge/open%20source-8%20apps-0B0A12?style=flat-square&labelColor=F2589F" alt="8 open-source apps" /></a>
   <a href="https://maecly.com"><img src="https://img.shields.io/badge/downloads-679%20(Oct%202026)-0B0A12?style=flat-square&labelColor=FFD100" alt="679 downloads as of October 2026" /></a>
   <img src="https://komarev.com/ghpvc/?username=MigelAngelEC&style=flat-square&color=8B5CF6&label=profile%20views" alt="Profile views" />
 </p>
@@ -110,6 +110,17 @@ Menu-bar app that brings your Mac's internet back when a VPN drops. Works with 1
 <img src="https://img.shields.io/badge/macOS-native-111?style=flat-square&logo=apple" alt="Native macOS app">
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://miguel.maecly.com/maecly/pluryfact.png" width="40" height="40" alt="Pluryfact icon"><br>
+<b><a href="https://pluryfact.maecly.com/en/">Pluryfact</a></b> <sub>· in Chrome Web Store review · AGPL-3.0</sub><br>
+Chrome extension that bulk-downloads your Ecuador SRI en Línea documents: authorised XML, RIDE (PDF) and TXT report, sorted by month in one ZIP. Never asks for your password.<br>
+<a href="https://github.com/MAECLY/pluryfact/releases"><img src="https://img.shields.io/github/downloads/MAECLY/pluryfact/total?style=flat-square&color=2446A8" alt="Pluryfact downloads"></a>
+<a href="https://github.com/MAECLY/pluryfact">source</a>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 **In the works:** [OpenDesign](https://opendesign.maecly.com) (local-first, bring-your-own-key AI design tool) · [WorklyReel](https://workly-reel.maecly.com) (proof-of-work cards from your Git activity) · Aurenly (paused).
@@ -184,7 +195,7 @@ Menu-bar app that brings your Mac's internet back when a VPN drops. Works with 1
 | Area | What I use |
 |---|---|
 | **Desktop apps** | Tauri 2 + Rust with React or Svelte (Pluryprint, Coverly ROMs, Versorium, autostand) · SwiftUI + XPC (VPN Fix) · Python + pywebview + Pillow (Image Transform Lite) |
-| **Browser and plugins** | WXT, Manifest V3 extensions (Coverly Shelf, ID Bridge IA) · Elgato Stream Deck SDK (Gaming Toggles) |
+| **Browser and plugins** | WXT, Manifest V3 extensions (Coverly Shelf, Pluryfact, ID Bridge IA) · Elgato Stream Deck SDK (Gaming Toggles) |
 | **Web** | Next.js 16 + React 19 · Tailwind 4 · React Three Fiber + GLSL · static sites with a single local verify gate |
 | **Mobile** | Expo + React Native (Acodear AI) · SwiftUI + SwiftData (FocusLoop, Targetly) |
 | **Backend and data** | Supabase (Postgres, Auth, Realtime, Storage) · Bun + Hono + Drizzle · Flask · AWS Amplify Gen 2 (AppSync, Cognito) · Firebase · Resend + React Email · WhatsApp Business API |
