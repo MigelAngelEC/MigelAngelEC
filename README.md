@@ -112,9 +112,10 @@ Menu-bar app that brings your Mac's internet back when a VPN drops. Works with 1
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://miguel.maecly.com/maecly/pluryfact.png" width="40" height="40" alt="Pluryfact icon"><br>
-<b><a href="https://pluryfact.maecly.com/en/">Pluryfact</a></b> <sub>· in Chrome Web Store review · AGPL-3.0</sub><br>
+<img src="https://maecly.com/products/pluryfact.png" width="40" height="40" alt="Pluryfact icon"><br>
+<b><a href="https://pluryfact.maecly.com/en/">Pluryfact</a></b> <sub>· on the Chrome Web Store · AGPL-3.0</sub><br>
 Chrome extension that bulk-downloads your Ecuador SRI en Línea documents: authorised XML, RIDE (PDF) and TXT report, sorted by month in one ZIP. Never asks for your password.<br>
+<a href="https://chromewebstore.google.com/detail/pluryfact/ibgodfpcihlddbbfaoooehfgbmahipbj"><img src="https://img.shields.io/chrome-web-store/v/ibgodfpcihlddbbfaoooehfgbmahipbj?style=flat-square&color=2446A8" alt="Pluryfact on the Chrome Web Store"></a>
 <a href="https://github.com/MAECLY/pluryfact/releases"><img src="https://img.shields.io/github/downloads/MAECLY/pluryfact/total?style=flat-square&color=2446A8" alt="Pluryfact downloads"></a>
 <a href="https://github.com/MAECLY/pluryfact">source</a>
 </td>
